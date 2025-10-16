@@ -1,0 +1,13 @@
+# --- Local env files (NE SMEJO v git) ---
+/local-env/
+/*.env
+.env
+.env.*
+
+# --- Editor/OS junk ---
+.vscode/
+.DS_Store
+Thumbs.db
+
+# --- Docker runtime junk ---
+*.pid
